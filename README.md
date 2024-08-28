@@ -32,8 +32,11 @@ Analyzed:
 2. Job categories and acceptance rate. ![image](Images/job.png)
 3. Marital status and acceptance rate. ![image](Images/marital.png)
 4. Outcome of previous campaigns and subscription rate ![image](Images/campaign.png)
-5. Bank loan effects on acceptance rate, defaulted or servicing ![image](Images/default.png) ![image](Images/loan.png)
-6. Yearly balance relationship to accepting rate. ![image](Images/balances.png)
+5. Bank loan effects on acceptance rate, defaulted or servicing 
+![image](Images/default.png) 
+![image](Images/loan.png)
+6. Yearly balance relationship to accepting rate. 
+![image](Images/balances.png)
 
 ### Model Development:
 Used:
