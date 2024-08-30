@@ -1,10 +1,15 @@
 # Customer-Subscription-to-Bank-Term-Deposits
-This project aims to predict whether a client will subscribe to a bank term deposit based on historical data from direct marketing campaigns conducted by a Portuguese banking institution. 
+
+# Business problem
+"How can a bank effectively predict which customers are likely to subscribe to a term deposit, thereby optimizing their marketing strategies and improving the success rates of their direct marketing campaigns?"
 
 ![image](Images/bank_marketing.jpg)
 
+## Objective
+This project aims to predict whether a client will subscribe to a bank term deposit based on historical data from direct marketing campaigns conducted by a Portuguese banking institution. 
+
 # Data Understanding
-The dataset used for this project is `bank-full.csv`, sourced from the UCI Machine Learning Repository: [Download](https://archive.ics.uci.edu/dataset/222/bank+marketing), which contains data from direct marketing campaigns. The dataset consists of 17 input variables and one target variable `y`. The target variable `y` indicates whether a client has subscribed to a term deposit `yes` or not `no`.
+The dataset used for this project is `bank-full.csv`, sourced from the UCI Machine Learning Repository: [Download](https://archive.ics.uci.edu/dataset/222/bank+marketing), which contains data from direct marketing campaigns. The dataset consists of 45211 records and 9 input variables and one target variable `y`. The target variable `y` indicates whether a client has subscribed to a term deposit `yes` or not `no`.
 
 ## The variables/Features used for this project are:
 
